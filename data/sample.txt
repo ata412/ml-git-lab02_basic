@@ -1,0 +1,4 @@
+# Sample Data File
+item1,100,active
+item2,200,inactive
+item3,150,active

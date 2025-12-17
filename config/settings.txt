@@ -1,0 +1,5 @@
+# Application Settings
+app_name=GitLab02
+version=1.0
+debug=true
+language=th
